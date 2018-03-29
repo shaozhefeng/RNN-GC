@@ -1,11 +1,14 @@
 # RNN-GC
-##　Introduction
+
+## Introduction
 This repo contains a python implementation of RNN-GC.
 lstm_nue.py is a re-implementation of LSTM using keras.
+
 ## Requirements: software
 * Python 2.7
 * Keras
 * theano or tensorflow
+
 ## Testing Demo
 run rnn_gc_demo.py
 

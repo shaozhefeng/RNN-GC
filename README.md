@@ -16,7 +16,7 @@ run rnn_gc_demo.py
 ![](assets/results.png)
 
 ## Citing RNN-GC
-If you find Faster RNN-GC useful in your research, please consider citing:
+If you find RNN-GC useful in your research, please consider citing:
 Yueming Wang, Kang Lin, Yu Qi, Qi Lian, Shaozhe Feng, Gang Pan, Zhaohui Wu, "Estimating Brain Connectivity with Varying Length Time Lags Using Recurrent Neural Network", IEEE Transactions on Biomedical Engineering, In press.
 
 

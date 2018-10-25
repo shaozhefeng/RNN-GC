@@ -19,7 +19,7 @@ def test(opt, num_hidden, mode, i):
 
 
 if __name__ == '__main__':
-    num_test = 1
+    num_test = 10
     opt = BaseOptions().parse()
 
     linear = np.zeros((5, 5))
